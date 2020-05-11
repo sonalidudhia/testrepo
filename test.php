@@ -1,3 +1,3 @@
 <?php
-echo "hi 772244";
+echo "hi check_message";
 ?>
