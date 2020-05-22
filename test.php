@@ -1,3 +1,3 @@
 <?php
-echo "hi check  event";
+echo "hi chec event";
 ?>
